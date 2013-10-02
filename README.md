@@ -1,0 +1,4 @@
+pysimpleged
+===========
+
+Simple Personal EDM
